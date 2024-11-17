@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">ASEAN APP</string>
+    <string name="title_home">Home</string>
+    <string name="title_about">Profil</string>
+
+    <string name="nama">Miftahul Arzaq</string>
+    <string name="email">mmiftahularzaq02@gmail.com</string>
+    <string name="aboutme">About Me</string>
+
+    <string-array name="data_name">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+        <item>Thailand</item>
+        <item>Vietnam</item>
+        <item>Filipina</item>
+        <item>Brunei Darussalam</item>
+        <item>Laos</item>
+        <item>Kamboja</item>
+        <item>Myanmar</item>
+        <item>Timor Leste</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Indonesia adalah negara kepulauan terbesar di dunia yang terletak di Asia Tenggara, terkenal dengan keanekaragaman budaya dan alamnya.</item>
+        <item>Malaysia adalah negara di Asia Tenggara yang dikenal dengan menara kembarnya, Menara Petronas, dan keanekaragaman etnisnya.</item>
+        <item>Singapura adalah negara kota yang maju dengan ekonomi yang kuat dan merupakan pusat bisnis internasional di Asia Tenggara.</item>
+        <item>Thailand adalah negara di Asia Tenggara yang dikenal dengan budaya, kuliner, dan destinasi wisata seperti Bangkok dan Phuket.</item>
+        <item>Vietnam adalah negara di Asia Tenggara yang kaya akan sejarah dan warisan budaya, dengan ibu kota Hanoi dan kota besar Ho Chi Minh.</item>
+        <item>Filipina adalah negara kepulauan di Asia Tenggara yang terkenal dengan pantai tropisnya, terutama di Palawan dan Boracay.</item>
+        <item>Brunei Darussalam adalah negara kecil yang kaya minyak di Asia Tenggara dengan sistem pemerintahan monarki.</item>
+        <item>Laos adalah negara daratan di Asia Tenggara yang terkenal dengan alamnya yang indah, terutama Sungai Mekong dan dataran tinggi.</item>
+        <item>Kamboja adalah negara di Asia Tenggara yang terkenal dengan situs Angkor Wat, peninggalan bersejarah dari Kerajaan Khmer.</item>
+        <item>Myanmar adalah negara di Asia Tenggara yang kaya budaya dan tradisi, terkenal dengan pagoda emas Shwedagon di Yangon.</item>
+        <item>Timor Leste adalah negara di Asia Tenggara yang mendapatkan kemerdekaan dari Indonesia pada tahun 2002, dengan ibu kota Dili.</item>
+    </string-array>
+
+    <string-array name="data_long_description">
+         <item>Indonesia memiliki lebih dari 17.000 pulau dengan keragaman suku, bahasa, dan tradisi yang sangat kaya, menjadikannya salah satu negara paling beragam secara budaya di dunia. Negara kepulauan terbesar ini terkenal dengan pulau Bali yang menjadi destinasi wisata utama dunia, serta candi Borobudur, sebuah warisan dunia UNESCO yang mencerminkan kebesaran kerajaan kuno. Indonesia juga menjadi habitat bagi komodo, reptil raksasa langka yang hanya dapat ditemukan di beberapa pulau
+
+Secara ekonomi, Indonesia adalah anggota G20 dan memiliki sektor ekonomi yang terus berkembang, terutama di bidang pertanian, pertambangan, dan manufaktur. Negara ini juga memiliki potensi energi terbarukan yang besar, terutama dari sumber daya panas bumi. Namun, Indonesia juga menghadapi tantangan lingkungan seperti kebakaran hutan dan polusi laut, yang memerlukan perhatian berkelanjutan untuk melindungi sumber daya alamnya bagi generasi mendatang.</item>
+        <item>Malaysia terdiri dari Semenanjung Malaysia dan Malaysia Timur di pulau Kalimantan. Menara Petronas di Kuala Lumpur adalah salah satu daya tarik utama, dan negara ini memiliki keanekaragaman budaya yang mencerminkan pengaruh Melayu, Cina, dan India.</item>
+        <item>Singapura adalah pusat keuangan dan pelabuhan tersibuk di dunia. Meskipun kecil, negara ini memiliki perekonomian yang sangat maju dan terkenal dengan kebersihannya, taman yang indah, dan bangunan ikonik seperti Marina Bay Sands.</item>
+        <item>Thailand memiliki budaya dan warisan yang kaya, mulai dari tarian tradisional hingga seni ukiran. Negara ini juga terkenal dengan kuil Buddha dan pantainya yang menakjubkan di Phuket, Krabi, dan Koh Samui.</item>
+        <item>Vietnam kaya akan sejarah dan memiliki banyak situs bersejarah dari era perang. Vietnam juga dikenal dengan kuliner yang unik, seperti Pho dan Banh Mi, serta pemandangan alam yang memukau seperti Halong Bay.</item>
+        <item>Filipina memiliki lebih dari 7.000 pulau dengan pantai-pantai yang cantik, gua bawah laut, dan kehidupan laut yang melimpah. Filipina juga memiliki budaya yang sangat dipengaruhi oleh Spanyol dan Amerika Serikat.</item>
+        <item>Brunei adalah negara kecil dengan kekayaan alam yang besar karena produksi minyak dan gas. Negara ini memiliki istana terbesar di dunia, yaitu Istana Nurul Iman, tempat tinggal Sultan Brunei.</item>
+        <item>Laos terkenal dengan dataran tinggi dan lanskap yang menakjubkan. Negara ini masih mempertahankan budaya tradisionalnya dan menarik wisatawan dengan situs-situs kuno dan keindahan alam seperti Luang Prabang.</item>
+        <item>Kamboja memiliki warisan budaya yang kaya dengan peninggalan dari Kerajaan Khmer. Angkor Wat adalah salah satu situs bersejarah paling terkenal di dunia dan menjadi daya tarik wisata utama di Kamboja.</item>
+        <item>Myanmar memiliki sejarah dan budaya yang kaya, dengan pengaruh dari India dan Tiongkok. Pagoda Shwedagon di Yangon adalah salah satu situs suci umat Buddha yang paling terkenal di Myanmar.</item>
+        <item>Timor Leste, atau Timor Timur, merupakan negara muda dengan budaya yang sangat beragam. Negara ini memiliki pantai yang cantik dan alam yang masih alami, serta masyarakat yang ramah dan penuh semangat.</item>
+    </string-array>
+
+    <string-array name="data_luas_wilayah">
+        <item>1.904.569 km²</item>
+        <item>330.803 km²</item>
+        <item>728,6 km²</item>
+        <item>513.120 km²</item>
+        <item>331.212 km²</item>
+        <item>300.000 km²</item>
+        <item>5.765 km²</item>
+        <item>236.800 km²</item>
+        <item>181.035 km²</item>
+        <item>676.578 km²</item>
+        <item>14.874 km²</item>
+    </string-array>
+
+    <string-array name="data_waktu_gabung">
+        <item>8 Agustus 1967</item> <!-- Indonesia -->
+        <item>8 Agustus 1967</item> <!-- Malaysia -->
+        <item>8 Agustus 1967</item> <!-- Singapura -->
+        <item>8 Agustus 1967</item> <!-- Thailand -->
+        <item>8 Agustus 1967</item> <!-- Filipina -->
+        <item>28 Juli 1995</item>  <!-- Vietnam -->
+        <item>7 Januari 1984</item> <!-- Brunei -->
+        <item>23 Juli 1997</item>  <!-- Laos -->
+        <item>23 Juli 1997</item>  <!-- Myanmar -->
+        <item>30 April 1999</item> <!-- Kamboja -->
+        <item>-</item>             <!-- Timor Leste (belum anggota penuh) -->
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/indonesia</item>
+        <item>@drawable/malaysia</item>
+        <item>@drawable/singapura</item>
+        <item>@drawable/thailand</item>
+        <item>@drawable/vietnam</item>
+        <item>@drawable/filipina</item>
+        <item>@drawable/brunei</item>
+        <item>@drawable/laos</item>
+        <item>@drawable/kamboja</item>
+        <item>@drawable/myanmar</item>
+        <item>@drawable/timurleste</item>
+    </integer-array>
+
+</resources>
